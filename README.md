@@ -75,15 +75,12 @@ endmodule
 ![image](https://github.com/Praveenamanikandan/HALF_ADDER_SUBTRACTOR/assets/144870776/0c97bfb5-0af5-42db-9fe6-36e61dc88c51)
 
 
-HALF ADDER:
+HAlf ADDER:
 ![image](https://github.com/Praveenamanikandan/HALF_ADDER_SUBTRACTOR/assets/144870776/dad30130-ecb8-446a-96dc-75ccaf8d0b28)
 
-FULL SUBTRACTOR:
+half SUBTRACTOR:
 ![image](https://github.com/Praveenamanikandan/HALF_ADDER_SUBTRACTOR/assets/144870776/28bc8ec1-79b1-42f8-8277-1c852f99b0d3)
 
-
-
-**Output/TIMING Waveform**
 
 **Result:**
 The code is executed sucessfully.
